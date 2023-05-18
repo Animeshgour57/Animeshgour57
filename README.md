@@ -1,4 +1,4 @@
-![logo](https://github.com/Animeshgour57/Animeshgour57/blob/main/WhatsApp Image 2023-04-11 at 01.17.10)
+![logo](https://github.com/Animeshgour57/Animeshgour57/blob/main/WhatsApp%20Image%202023-04-11%20at%2001.17.10.jpeg)
 <h1 align="center">Hi 👋, I'm Animesh Gour</h1>
 <h3 align="center">A passionate Data Scientist/Analyst from India</h3>
 
